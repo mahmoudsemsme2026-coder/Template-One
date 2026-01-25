@@ -397,7 +397,7 @@ margin-bottom: 5px;
 @media (max-width:768px) {
       .about .container .about-content .image::after
         {
-           left: 130px;
+           left: 120px;
         }
 
 
