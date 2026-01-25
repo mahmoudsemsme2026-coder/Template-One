@@ -28,7 +28,7 @@ html
     scroll-behavior: smooth;
 }
 /*mobile*/
-@media(max-width:767)
+@media(max-width:767px)
 {
    .special-heading
    {
@@ -521,7 +521,7 @@ margin-bottom: 5px;
     margin-left: 10px;
     color: var(--second-color);
 }
-@media(max-width:767)
+@media(max-width:767px)
 {
     .contact .info .label
     .contact .info .link
