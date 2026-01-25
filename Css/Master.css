@@ -393,6 +393,18 @@ margin-bottom: 5px;
 
     
 }
+@media (max-width:768px) {
+    .about .about-content {
+        flex-direction: column;
+        text-align: center;
+    }
+        .about .container .about-content .image::after
+        {
+           left: 130px;
+        }
+
+
+}
 .about .container .about-content .image
 {
     position: relative;
@@ -435,15 +447,6 @@ margin-bottom: 5px;
     right: -150px;
     top:-40px;
 
-}
-@media(max-width:767)
-{
-    .about .container .about-content .image::after
-{
-     width: 100px;
-    height:270px;
-}
-    
 }
 @media (max-width:991px)
 {
