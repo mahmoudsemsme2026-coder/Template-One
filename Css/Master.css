@@ -48,6 +48,8 @@ html
 body{
     font-family: "Work Sans" sans-serif;
       overflow-x: hidden;
+          overflow-y: hidden;
+
 
 }
 
